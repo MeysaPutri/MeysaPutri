@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeysaPutri
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on text mining
+- 👀 I’m interested in web development
+- 🌱 I recently learned anything to be able to start work as a front end web developer
+- 💞️ I’m looking to collaborate on web development
 
 
 <!---
